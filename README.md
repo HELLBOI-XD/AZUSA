@@ -12,7 +12,7 @@ Modular Telegram bot for managing your groups with a extras features with Some A
     
   </a>
   <a href="https://github.com/Noobxboy/AZUSA">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
+    <img src="https://img.shields.io/github/stars/Noobxboy/AZUSA?style=social">
   </a>
 </p>
 
