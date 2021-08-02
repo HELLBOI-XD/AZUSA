@@ -26,7 +26,7 @@
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
          "required": false,
-         "value": ""
+         "value": "CAADAQADtAEAAm5rKERbptq2hpS5LAI"
       },
       "MESSAGE_DUMP": {
          "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
@@ -50,7 +50,7 @@
       "KICK_STICKER": {
          "description": "ID of the sticker you want to use when kicking people.",
          "required": false,
-         "value": ""
+         "value": "CAADAQADtAEAAm5rKERbptq2hpS5LAI"
       },
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -59,7 +59,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1118936839"
+         "value": "1878955587,1777896757,"
       },
       "OWNER_NAME": {
          "description": "Your Name",
@@ -68,7 +68,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1118936839"
+         "value": "1878955587,1777896757"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -85,7 +85,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/511ad504656e712b88235.jpg"    
+         "value": "https://telegra.ph/file/b45ef890e4c235b336712.gif"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -108,12 +108,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1118936839"
+         "value": "1878955587,1777896757"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1118936839"
+         "value": "1878955587,1777896757"
       },
      
       "TOKEN": {
@@ -134,7 +134,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1118936839"
+         "value": "1878955587,1777896757"
       },
       "WALL_API":{
          "description": "Enter wall api",
@@ -152,7 +152,7 @@
       "weeb",
       "group",
       "manager",
-      "cinderella"
+      "Azusa"
       
    ],
    "buildpacks": [
@@ -165,6 +165,6 @@
   ],
    "name": "AZUSA",
    "repository": "https://github.com/Noobxboy/AZUSA",
-   "success_url": "https://telegram.dog/CinderellaProBot",
+   "success_url": "https://telegram.dog/AzusaRobot",
    "logo": "https://telegra.ph/file/b45ef890e4c235b336712.gif"
 }
