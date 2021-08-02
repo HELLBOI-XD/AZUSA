@@ -7,7 +7,7 @@
 Modular Telegram bot for managing your groups with a extras features with Some Anime theme.
 
 <p align="center">
-  <a href="https://github.com/Sur-vivor/CinderellaProBot/fork">
+  <a href="https://github.com/Noobxboy/AZUSA/fork">
     <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
     
   </a>
