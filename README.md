@@ -11,7 +11,7 @@ Modular Telegram bot for managing your groups with a extras features with Some A
     <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Sur-vivor/CinderellaProBot">
+  <a href="https://github.com/Noobxboy/AZUSA">
     <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
   </a>
 </p>
