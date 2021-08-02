@@ -8,7 +8,7 @@ Modular Telegram bot for managing your groups with a extras features with Some A
 
 <p align="center">
   <a href="https://github.com/Noobxboy/AZUSA/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Noobxboy/AZUSA?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Noobxboy/AZUSA">
